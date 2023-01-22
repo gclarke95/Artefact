@@ -1,4 +1,4 @@
-# Thesis Aretefact
+#Thesis Aretefact
 
 
 This website displays the computing artefact produced in requirement for my Computer Science MSc at the University of Essex.  
